@@ -1,0 +1,28 @@
+//=========================================//
+//======Start Executive Version@1.0.0======//
+//=========================================//
+
+//==================Global Edits
+@font-face {
+	font-family: metropolis;
+	src: url("../assets/metropolisFont.otf");
+}
+* {
+	font-family: metropolis;
+	box-sizing: border-box;
+	text-transform: capitalize;
+	scroll-behavior: smooth;
+	outline: none !important;
+}
+body.notScroll {
+	height: 100vh;
+	overflow: hidden;
+}
+.VueCarousel-dot--active {
+	transition: all 500ms !important;
+}
+pre {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+//==============================

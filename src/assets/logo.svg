@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136.045" height="41.011" viewBox="0 0 136.045 41.011">
+  <g id="logo" transform="translate(-857.955 -696.989)">
+    <text id="Excutive" transform="translate(870 732)" fill="#2e3371" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Excutive</tspan></text>
+    <g id="graduation-hat_1_" data-name="graduation-hat (1)" transform="matrix(0.927, -0.375, 0.375, 0.927, 857.512, 706.585)">
+      <path id="Path_1" data-name="Path 1" d="M107.492,124.352v5.817c0,2.429-4.243,3.748-8.246,3.748S91,132.6,91,130.169v-5.817a.752.752,0,0,1,.75-.75h14.993a.752.752,0,0,1,.749.75Zm0,0" transform="translate(-86.452 -117.425)" fill="#5d69ff"/>
+      <path id="Path_2" data-name="Path 2" d="M264.246,124.352v5.817c0,2.429-4.243,3.748-8.246,3.748V123.6h7.5a.752.752,0,0,1,.746.752Zm0,0" transform="translate(-243.206 -117.425)" fill="#505dfb"/>
+      <path id="Path_3" data-name="Path 3" d="M34.71,5.248a.751.751,0,0,1-.48.7l-12.044,4.5a.83.83,0,0,1-.54,0L9.6,5.952V4.543L21.646.045a.833.833,0,0,1,.54,0l12.044,4.5a.751.751,0,0,1,.48.7Zm0,0" transform="translate(-9.122)" fill="#7a84fc"/>
+      <path id="Path_4" data-name="Path 4" d="M268.794,5.248a.751.751,0,0,1-.48.7l-12.044,4.5a.845.845,0,0,1-.27.045V0a.85.85,0,0,1,.27.045l12.044,4.5a.751.751,0,0,1,.48.7Zm0,0" transform="translate(-243.206)" fill="#717cff"/>
+      <path id="Path_5" data-name="Path 5" d="M13.544,90.75a.742.742,0,0,1-.75.75H1.5v11.125L2.954,107a.744.744,0,1,1-1.409.48l-.045-.135a.771.771,0,0,1-.75.645.742.742,0,0,1-.75-.75V90.75A.742.742,0,0,1,.75,90H12.794a.742.742,0,0,1,.75.75Zm0,0" transform="translate(0 -85.502)" fill="#202020"/>
+    </g>
+  </g>
+</svg>
