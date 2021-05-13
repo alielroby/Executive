@@ -1,8 +1,8 @@
-# Excutive
+# Excutive Study
 
-Excutive For Take Online Courses Earn College Credit Research Schools Degrees Careers
+Excutive It is a Site For Take Online Courses Earn College Credit Research Schools Degrees Careers
 
-## Project setup
+## For Setup Project
 
 ```
 npm install
