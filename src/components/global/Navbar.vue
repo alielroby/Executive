@@ -19,7 +19,7 @@
 					<li><router-link to="/country">Country</router-link></li>
 				</ul>
 			</div>
-			<StrokeButton val="Login" />
+			<a href="/login"><StrokeButton val="Login" /></a>
 			<div class="menu">
 				<MenuIcon @click.native="menuMobileOpen" />
 			</div>
